@@ -1,12 +1,12 @@
 # Application Servers
 [app]
-192.168.225.151
-192.168.225.152
+# 192.168.225.151
+# 192.168.225.152
 
 
 # Database Servers
 [db]
-192.168.225.153
+# 192.168.225.153
 
 # All servers
 [multi:children]
